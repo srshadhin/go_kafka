@@ -1,0 +1,4 @@
+2025/01/25 02:06:05 Failed to initialize Kafka async producer: kafka: client has run out of available brokers to talk to: 2 errors occurred:
+	* dial tcp: lookup kafka1: no such host
+	* dial tcp: lookup kafka2: no such host
+exit status 1
