@@ -5,6 +5,7 @@ go 1.21.3
 require (
 	github.com/IBM/sarama v1.45.0
 	github.com/gorilla/websocket v1.5.3
+	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 )
 
 require (
@@ -23,7 +24,6 @@ require (
 	github.com/jcmturner/rpc/v2 v2.0.3 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/pierrec/lz4/v4 v4.1.22 // indirect
-	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/net v0.34.0 // indirect
 )
