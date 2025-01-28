@@ -5,6 +5,7 @@ go 1.21.3
 require (
 	github.com/IBM/sarama v1.45.0
 	github.com/gorilla/websocket v1.5.3
+	github.com/joho/godotenv v1.5.1
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 )
 
